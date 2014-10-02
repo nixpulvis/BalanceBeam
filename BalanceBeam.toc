@@ -1,0 +1,8 @@
+## Interface: 60000
+## Author: Epicgrim
+## Version: 0.0.1
+## Title: Balance Beam
+## Notes: Balance Druid Raiding Addon.
+## SavedVariables: BBDB
+
+main.lua
